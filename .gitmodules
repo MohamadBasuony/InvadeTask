@@ -1,0 +1,12 @@
+[submodule "ModuleA"]
+	path = ModuleA
+	url = https://github.com/MohamadBasuony/ModuleA.git
+[submodule "ModuleB"]
+	path = ModuleB
+	url = https://github.com/MohamadBasuony/ModuleB.git
+[submodule "NetworkModule"]
+	path = NetworkModule
+	url = https://github.com/MohamadBasuony/NetworkModule.git
+[submodule "CoreModule"]
+	path = CoreModule
+	url = https://github.com/MohamadBasuony/CoreModule.git
